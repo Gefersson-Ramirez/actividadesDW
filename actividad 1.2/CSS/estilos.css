@@ -1,0 +1,52 @@
+.letratitulo{
+color: red;
+font-size: 300%;
+margin-left: 30px;
+}
+
+.letralinks
+{
+margin-left: 35px;
+font-size: 220%;
+color: slateblue;
+}
+
+.margen
+{
+   margin-left: 30px; 
+}
+.margenycolorparrafo
+{
+margin-right: 100px;
+margin-left:  100px;
+color: seagreen;
+}
+
+.parrafo2
+{
+    color: green;
+    margin-right: 100px;
+margin-left:  100px;
+
+}
+
+.parrafo3
+{
+    color:red;
+    margin-right: 100px;
+margin-left:  100px;
+
+}
+
+.parrafo4
+{
+    color: orangered;
+    margin-right: 100px;
+margin-left:  100px;
+
+}
+
+.img{
+    display:block;
+    margin:auto;
+    }
